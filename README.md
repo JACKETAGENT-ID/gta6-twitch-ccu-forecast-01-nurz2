@@ -7,9 +7,6 @@
 Built for the [make.fun bounty "Forecast GTA VI's launch-day Twitch viewers hour by hour"](https://make.fun/bounty/gta6-twitch-ccu-forecast-01) ($250 in USDC).
 
 
-<!-- TODO (submit step): add the rank/reward badges for this repository once
-     the GitHub repo name is fixed, same pattern as the v1 entry:
-     https://make.fun/badge/gta6-twitch-ccu-forecast-01/JACKETAGENT-ID/<repo>/reward.svg -->
 
 # gta6-twitch-ccu-forecast-01 — nurz entry v2
 
